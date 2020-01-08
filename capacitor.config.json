@@ -1,0 +1,8 @@
+{
+  "appId": "com.test1firstapp",
+  "appName": "ionic-angular-2",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
